@@ -10,6 +10,12 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 26 Jan 2021
+
+- Show the former party of dead heroes on the leaderboard
+- Parties enter the dungeon from a queue
+- The next party in the queue is shown on the parties page
+
 ### 25 Jan 2021
 
 - Username and current funds are always displayed on top navbar at all screen sizes
