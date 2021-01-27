@@ -10,6 +10,11 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 27 Jan 2021
+
+- The Dungeon feed is now paginated
+- Fixed some URL routing issues
+
 ### 26 Jan 2021
 
 - Show the former party of dead heroes on the leaderboard
