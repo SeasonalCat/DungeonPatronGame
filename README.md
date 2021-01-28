@@ -10,6 +10,10 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 27 Jan 2021 PART DEUX
+
+- Dungeon feed is now filterable by party
+
 ### 27 Jan 2021
 
 - The Dungeon feed is now paginated
