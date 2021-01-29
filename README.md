@@ -10,6 +10,10 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 28 Jan 2021
+
+- Funds page now shows all stories involving the logged-in player
+
 ### 27 Jan 2021 PART DEUX
 
 - Dungeon feed is now filterable by party
