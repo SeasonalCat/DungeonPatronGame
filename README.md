@@ -10,6 +10,16 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 04 Feb 2021
+
+- Leaderboard
+- - Rearranged leaderboard
+- - Dead heroes, wiped parties, and retired parties display their ending date
+- - Living heroes display their party
+- - Wiped parties display their historic max dungeon level
+- Parties page
+- - Ascending parties display their max cleared level for that run
+
 ### 28 Jan 2021
 
 - Funds page now shows all stories involving the logged-in player
