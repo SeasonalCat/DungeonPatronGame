@@ -10,6 +10,14 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 09 Feb 2021
+
+- Update patron payback messages with initial donation and ROI
+- Dungeon parties display value of collected loot
+- Tax interval reverted to 24 hours
+- The King will raise players' net worth to 1000 if they drop below it (when a party exits the dungeon with a low payout)
+- Some minor text changes 'round the website
+
 ### 04 Feb 2021
 
 - Leaderboard
