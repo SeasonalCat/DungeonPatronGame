@@ -10,6 +10,10 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 30 Mar 2021
+
+- Gold amounts now display with commas
+
 ### 09 Feb 2021
 
 - Update patron payback messages with initial donation and ROI
