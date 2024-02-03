@@ -10,6 +10,10 @@ Thank you for your support in bringing Dungeon Patron to life!
 
 # Recent Changes
 
+### 2 Feb 2024
+
+- Dungeon Patron is back! Many of the underlying designs have been totally reworked. Please let us know what you think!
+
 ### 30 Mar 2021
 
 - Gold amounts now display with commas
